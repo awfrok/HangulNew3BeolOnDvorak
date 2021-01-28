@@ -1,3 +1,5 @@
+작성: 2021.01.28.
+
 #  (가칭) 새세벌식: 한글 글쇠 배열: Dvorak 영문 글쇠 배열의 부호와 기호를 그대로 사용하는 신세벌식 조합방식의 한글 글쇠 배열
 
 ![layout_HangulNew3onDvorak](https://user-images.githubusercontent.com/78065210/106119672-4fb8a400-610a-11eb-8ed2-8bb637b36941.jpg)
