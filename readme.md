@@ -64,11 +64,17 @@
 
 ## 목표
 
-1. 리눅스 uim, uim-byeoru를 통해 구현하기.
-2. 리눅스 libhangul을 통해 구현하기. (맥오에스의 구름 입력기도 시험하기.)
+1. 리눅스 uim, uim-byeoru를 통해 구현함.
+
+   > https://github.com/awfrok/uim-byeoru_for_HangulNew3onDvorak
+
+2. 리눅스 libhangul을 통해 구현하기. 
+
+   > libhangul을 사용하는 맥오에스의 구름 입력기도 시험하기.
+
 3. 윈도우에서 입력기를 구현하기.
 
-> https://kldp.org/node/160815 와 https://kldp.org/node/161067 를 발견하고 가능성이 있다고 생각함.
+   > https://kldp.org/node/160815 와 https://kldp.org/node/161067 를 발견하고 가능성이 있다고 생각함.
 
 
 
