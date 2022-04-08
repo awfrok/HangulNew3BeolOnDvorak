@@ -78,10 +78,7 @@
 
    > https://github.com/awfrok/uim-byeoru_for_HangulNew3onDvorak
    >
-   > https://kldp.org/node/160815 
-   >
-   > https://kldp.org/node/161067
-
+   
 2. 리눅스 libhangul을 통해 구현하기. 
 
    > libhangul을 사용하는 맥오에스의 구름 입력기도 시험하기.
