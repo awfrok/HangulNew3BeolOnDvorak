@@ -31,7 +31,9 @@
 5. 기본 자리와 윗줄이 90%를 담당하고, 아랫줄이 10%를 담당함. (Dvorak 과 유사함.)
 
    > https://cafe.daum.net/3bulsik/6CY8/328
+   >
    > https://cafe.daum.net/3bulsik/6CY8/345
+   >
    > https://cafe.daum.net/3bulsik/6CY8/334
 
 
