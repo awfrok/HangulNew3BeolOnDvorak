@@ -24,6 +24,10 @@
 4. 불쌍한 약지를 배려하고 새끼를 기본자리에서 활용함.
 4. 기본 자리와 윗줄이 90%를 담당하고, 아랫줄이 10%를 담당함.
 
+	> https://cafe.daum.net/3bulsik/6CY8/328
+	>
+	> https://cafe.daum.net/3bulsik/6CY8/345
+	>
 	> https://cafe.daum.net/3bulsik/6CY8/334
 
 
