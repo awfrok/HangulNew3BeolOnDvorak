@@ -4,7 +4,7 @@
 
 ![KeyboardLayout_HangulNew3onDvorak_v0.2.2.jpg](https://github.com/awfrok/HangulNew3onDvorak/blob/master/KeyboardLayout_HangulNew3onDvorak_v0.2.2.jpg?raw=true)
 
-## 설명
+## 개요
 
 1. 드보락의 알파벳에 한글 글쇠를 배치함.
 2. 드보락의 부호와 기호의 위치를 그대로 사용함.
@@ -105,8 +105,11 @@ open-source나 개인 저작에 대해 아직 license 등을 어떻게 지정해
    부호와 기호를 입력하기 위해서 영문으로 바꾸는 부담도 컸음.
 
 3. 새롭게 글쇠 배열을 만들기로 하고, 
-   찾아보니 공세벌식보다 신세벌식의 조합방식이 내 의도를 잘 살릴것으로 생각함.
-
+   
+   Dvorak 배열에 맞추기로 함.
+   
+   신세벌식의 조합방식이 내 의도를 잘 살릴것으로 생각함.
+   
    > https://ko.wikipedia.org/wiki/%EC%84%B8%EB%B2%8C%EC%8B%9D_%EC%9E%90%ED%8C%90
 
 
