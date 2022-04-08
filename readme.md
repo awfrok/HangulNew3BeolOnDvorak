@@ -58,7 +58,7 @@
    
 4. 종성에 대해, 
     중성과 연타를 줄이는 방향으로 배열하여
-    리듬감을 살리려고 하였음. 
+    리듬감을 살리려고 하였음.
     
 5. 한 자리에 있는 중성과 종성에 대해,
     빈도를 고려하여 상반된 자리를 지정해서 왼손 검지와 중지의 연타를 줄임.
@@ -72,17 +72,17 @@
 
 ## 목표
 
-1. 리눅스 uim, uim-byeoru를 통해 구현함.
+1. 리눅스 uim, uim-byeoru를 통해 구현함. 윈도우에서 날개셋 입력기를 사용함.
 
    > https://github.com/awfrok/uim-byeoru_for_HangulNew3onDvorak
+   >
+   > https://kldp.org/node/160815 
+   >
+   > https://kldp.org/node/161067
 
 2. 리눅스 libhangul을 통해 구현하기. 
 
    > libhangul을 사용하는 맥오에스의 구름 입력기도 시험하기.
-
-3. 윈도우에서 입력기를 구현하기.
-
-   > https://kldp.org/node/160815 와 https://kldp.org/node/161067 를 발견하고 가능성이 있다고 생각함.
 
 
 
