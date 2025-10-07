@@ -64,10 +64,12 @@
 
 ## 구현
 
+1. 리눅스 uim, uim-byeoru를 통해 구현함.
 > https://github.com/awfrok/uim-byeoru_for_HangulNew3onDvorak
 
-1. 리눅스 uim, uim-byeoru를 통해 구현함. 
 2. 윈도우에서 김용묵의 날개셋 입력기를 사용함.
+> https://github.com/awfrok/HangulNew3Beol-NGS-setting
+
 
 
 
